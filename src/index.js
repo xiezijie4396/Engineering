@@ -1,7 +1,7 @@
-var a = 2
+// const a = 2
 
 export default {
   name: 'xxx',
   age: 18,
-  xxx: 10
+  xxx: 10,
 }
